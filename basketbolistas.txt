@@ -1,0 +1,16 @@
+tomas@tomas-VirtualBox:~/3darbas$ git init
+Initialized empty Git repository in /home/tomas/3darbas/.git/
+tomas@tomas-VirtualBox:~/3darbas$ git add .
+tomas@tomas-VirtualBox:~/3darbas$ git commit -m "bandomasis1"
+[master (root-commit) 49a4f58] bandomasis1
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 testinis_failas
+tomas@tomas-VirtualBox:~/3darbas$ git remote add origin https://github.com/Tomasito750/3uzduotis.git
+tomas@tomas-VirtualBox:~/3darbas$ git push origin master
+Username for 'https://github.com': tomasito750
+Password for 'https://tomasito750@github.com': 
+Counting objects: 3, done.
+Writing objects: 100% (3/3), 215 bytes | 0 bytes/s, done.
+Total 3 (delta 0), reused 0 (delta 0)
+To https://github.com/Tomasito750/3uzduotis.git
+ * [new branch]      master -> master
